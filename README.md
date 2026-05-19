@@ -12,7 +12,7 @@ I spend most of my work time in Power BI, Redshift, and SQL. I spend most of my 
 
 ## How I work
 
-I use AI tools as part of the build loop, not as a chatbot. At work that looks like: pairing with Claude on Power Automate flow architecture, using MCP servers to manipulate Power BI semantic models from natural language, and using Claude in Chrome to drive SharePoint REST API work in authenticated sessions. The proposal-writing skill above is one artifact from that practice — there are others I can't make public.
+I build production systems using AI as part of the development loop — Claude for code and architecture, MCP servers for direct Power BI semantic model work, Claude in Chrome for browser automation. The proposal-writing skill below is one example of that practice.
 
 ## What I work with
 
