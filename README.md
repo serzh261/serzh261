@@ -1,59 +1,38 @@
-# Hi, I'm Sergei Sukiasyan 👋
+# Sergei Sukiasyan
 
-### Data Analytics Manager | BI & Data Warehousing | Cross-Functional Leader
+Data analytics manager based in Overland Park, KS. 16+ years across telecom, affordable housing, financial services, and behavioral health. Currently leading analytics at Advocates for Human Potential.
 
-I'm a data analytics leader with **16+ years of experience** translating complex business data into actionable insights that drive operational efficiency, customer outcomes, and strategic decision-making across enterprise environments.
+I spend most of my work time in Power BI, Redshift, and SQL. I spend most of my side-project time figuring out how to make AI tools actually useful for the kind of work I do, instead of just demo-pretty.
 
-I currently lead analytics initiatives at **Advocates for Human Potential**, where I oversee Redshift data warehouse optimization, Power BI dashboard development, and workflow automation supporting compliance tracking and executive reporting. My background spans telecommunications (Lumen Technologies), affordable housing (NeighborWorks America), and financial services (State Street Corporation).
+## What I'm building lately
 
----
+**[proposal-writing-skill](https://github.com/serzh261/proposal-writing-skill)** — A Claude skill that encodes the full government-proposal lifecycle (go/no-go triage through Gold Team review) as a reusable agentic workflow. Sanitized template of a system I use in my own consulting practice. Includes 6 operational modes, agency-specific reference patterns, and Shipley-aligned drafting templates. MIT licensed.
 
-### 🛠️ Technical Stack
+**[sql-retail-analytics](https://github.com/serzh261/sql-retail-analytics)** — SQL analysis of the UCI Online Retail II dataset. CTEs, window functions, RFM segmentation, cohort retention. PostgreSQL.
 
-**Languages & Query**
-`SQL` (Advanced — CTEs, window functions, query optimization) · `Python` · `DAX` · `M / Power Query`
+## How I work
 
-**Data Warehousing & Cloud**
-`Amazon Redshift` · `Snowflake` · `Databricks` · `Azure SQL` · `Azure Synapse` · `Azure Data Factory` · `Microsoft Fabric`
+I use AI tools as part of the build loop, not as a chatbot. At work that looks like: pairing with Claude on Power Automate flow architecture, using MCP servers to manipulate Power BI semantic models from natural language, and using Claude in Chrome to drive SharePoint REST API work in authenticated sessions. The proposal-writing skill above is one artifact from that practice — there are others I can't make public.
 
-**BI & Visualization**
-`Power BI` · `Tableau` · `Power Pivot` · `Excel`
+## What I work with
 
-**Data Modeling**
-`Dimensional Modeling` · `Star Schema` · `Semantic Models` · `Time Intelligence`
+**Day-to-day:** Power BI (DAX, semantic models, Power Query), Redshift, SQL, Power Automate, Power Apps, SharePoint Online
 
-**Automation & Workflow**
-`Power Apps` · `Power Automate` · `SSIS` · `Git / GitHub`
+**AI tooling in production work:** Claude (development, debugging, documentation), MCP servers (powerbi-modeling-mcp for semantic model work), Claude in Chrome (agentic browser automation), AI-paired Power Platform development
 
-**Emerging**
-`AI / LLM-assisted reporting workflows` · `Atlan (data catalog)`
+**Cloud stack:** Azure SQL, Azure Synapse, Azure Data Factory, Microsoft Fabric, some Databricks
 
----
+**Comfortable with:** Python (pandas, automation scripts), JavaScript (against SharePoint REST), Tableau, Snowflake, Oracle SQL, dimensional modeling, Intune app packaging
 
-### 📂 Featured Projects
+## Background
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**Retail Sales SQL Analytics**](https://github.com/serzh261/sql-retail-analytics) | Advanced SQL analysis of public retail data using CTEs, window functions, and cohort analysis | SQL, PostgreSQL |
-| [**Power BI Sales Dashboard**](https://github.com/serzh261/powerbi-sales-dashboard) | Executive dashboard with complex DAX, time intelligence, and semantic model | Power BI, DAX |
-| [**Python ETL Pipeline**](https://github.com/serzh261/python-etl-pipeline) | End-to-end pipeline extracting public API data, transforming, and loading to a warehouse | Python, pandas, SQLAlchemy |
-| [**Dimensional Model — Star Schema**](https://github.com/serzh261/dimensional-model-star-schema) | Reference implementation of a Kimball-style star schema for a sales data mart | SQL, Documentation |
+- Manager, Data Analytics at Advocates for Human Potential (2024 – present)
+- Lead Strategic Data Analyst at Lumen Technologies (2022 – 2024)
+- Lead Analyst / Senior Analyst at NeighborWorks America (2014 – 2022)
+- Earlier work in fund administration at State Street
 
----
+PG Program in Data Science & Business Analytics, University of Texas. MBA and BBA from Baker University.
 
-### 🎓 Education
+## Contact
 
-- **PG Program in Data Science and Business Analytics** — University of Texas
-- **Master of Business Administration** — Baker University
-- **Bachelor of Business Administration** — Baker University
-
----
-
-### 📫 Connect
-
-- 📧 serzh261@gmail.com
-- 📍 Overland Park, KS
-
----
-
-*Currently focused on: modernizing reporting workflows, integrating AI/LLM capabilities into BI tooling, and building scalable analytics solutions in cloud data platforms.*
+serzh261@gmail.com
