@@ -10,15 +10,9 @@ I spend most of my work time in Power BI, Redshift, and SQL. I spend most of my 
 
 **[sql-retail-analytics](https://github.com/serzh261/sql-retail-analytics)** — SQL analysis of the UCI Online Retail II dataset. CTEs, window functions, RFM segmentation, cohort retention. PostgreSQL.
 
-## How I work
-
-I build production systems using AI as part of the development loop — Claude for code and architecture, MCP servers for direct Power BI semantic model work, Claude in Chrome for browser automation. The proposal-writing skill below is one example of that practice.
-
 ## What I work with
 
 **Day-to-day:** Power BI (DAX, semantic models, Power Query), Redshift, SQL, Power Automate, Power Apps, SharePoint Online
-
-**AI tooling in production work:** Claude (development, debugging, documentation), MCP servers (powerbi-modeling-mcp for semantic model work), Claude in Chrome (agentic browser automation), AI-paired Power Platform development
 
 **Cloud stack:** Azure SQL, Azure Synapse, Azure Data Factory, Microsoft Fabric, some Databricks
 
